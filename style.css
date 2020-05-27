@@ -1,0 +1,75 @@
+#header{
+    font-family:'Helvetica';
+    Background-color:#1377A9;
+    Color:white;
+    Padding:20px;
+    }
+    #head1{
+    Font-size:40px;
+    Margin-bottom:-30px;
+    }
+    #buttons{
+    Margin-top:-70px;
+    Margin-right:50px;
+    Float:right;
+    }
+    #topbutton{
+    Margin-right:10px;
+    Padding:5px;
+    Background-color:white;
+    Color:#1377A9;
+    Border-radius:5px;
+    Font-size:15px;
+    }
+    #inputbutton{
+    Border:1px solid black;
+    Border-radius:3px;
+    }
+    #submitbutton{
+    Border:1px solid black;
+    Border-radius:3px;
+    }
+    .slideshow{
+    
+    float:left;
+    Width:50%;
+    }
+    
+    
+    
+    #bg_right{
+    Margin-top:50px;
+    Margin-left:51%;
+    width:50%;
+    
+    }
+    #heading2{
+    font-family:'Helvetica';
+    color:#1377A9;
+    }
+    #info{
+    font-family:'Helvetica';
+    color:#1377A9;
+    }
+    #mainbutton{
+    Padding:15px 50px;
+    Background-color:#1377A9;
+    Color:white;
+    Border-radius:10px;
+    Font-size:20px;
+    Margin-left:250px;
+    Margin-bottom:30px;
+    }
+    .swipe_left{
+    Position:absolute;
+    Top:60%;
+    }
+    .swipe_right{
+    Position:absolute;
+    Top:60%;
+    Left:48.5%;
+    }
+    .image{
+      display:none;
+    }
+    

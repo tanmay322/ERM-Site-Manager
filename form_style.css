@@ -1,0 +1,51 @@
+#admin_login{
+    margin: auto;
+
+    Display:block;
+Border:1px solid black;
+float:center;
+Width:40%;
+Text-align:center;
+font-family:'Helvetica';
+Height:400px;
+Padding:10px;
+Border-radius:5px;
+Background-color:#f2f2f2;
+Border:1px solid grey;
+Margin-top:20px;
+
+}
+#student_login{
+    margin: auto;
+    
+    Display:block;
+    Border:1px solid black;
+    float:center;
+    Width:40%;
+    Text-align:center;
+    font-family:'Helvetica';
+    Height:400px;
+    Padding:10px;
+    Border-radius:5px;
+    Background-color:#f2f2f2;
+    
+    Border:1px solid grey;
+
+    Margin-top:20px;
+}
+    #faculty_login{
+        margin: auto;
+        Display:block;
+        Border:1px solid black;
+        float:center;
+        Width:40%;
+        Text-align:center;
+        font-family:'Helvetica';
+        Height:400px;
+        Padding:10px;
+        Border-radius:5px;
+        Background-color:#f2f2f2;
+        Border:1px solid grey;
+        margin-top: 20px;
+        }
+        
